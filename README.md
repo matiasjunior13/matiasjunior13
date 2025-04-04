@@ -1,5 +1,5 @@
 # Olá, eu sou Matias Júnior!<br>
-👨‍💻 Desenvolvedor apaixonado por tecnologia.
+👨‍💻 Estudante apaixonado por tecnologia.
 
 <div align="center">
   <a href="https://github.com/matiasjunior13">
