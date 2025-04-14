@@ -18,9 +18,3 @@
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://user-images.githubusercontent.com/106066785/229653154-9e45c571-a10e-4ed9-a726-cd3c4608446a.png">
   <img align="right" alt="Avatar-Imagem" height="150" src="https://i.ibb.co/W25h6Dm/Design-sem-nome.png">
 </div> -->
-
-
-  ##
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=matiasjunior13)](https://git.io/streak-stats)
